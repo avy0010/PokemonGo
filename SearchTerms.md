@@ -6,6 +6,7 @@
 - [Pokémon Age & Event-Based Search Terms](#pokémon-age--event-based-search-terms)
 - [Region-Based Search Terms](#region-based-search-terms)
 - [Combining & Excluding Search Terms](#combining--excluding-search-terms)
+- [List of all Mega's & Gigantamax](#list-of-all-megas--gigantamax)
 
 
 ## Basic Search Terms
@@ -136,3 +137,18 @@
     ```plaintext
     Legendary & Lucky, Shiny, CP3000-4000
     ```
+## List of all Mega's & Gigantamax
+### Mega's
+```planetext
++Venusaur,+Charizard,+Blastoise,+Beedrill,+Pidgeot,+Alakazam,+Slowbro,+Gengar,+Kangaskhan,+Gyarados,+Aerodactyl,+Ampharos,+Steelix,+Houndoom,+Manectric,+Altaria,+Absol,+Latias,+Latios,+Lopunny,+Abomasnow,+Scizor,+Aggron,+Banette,+Sceptile,+Blaziken,+Swampert,+Glalie,+Salamence,+Gardevoir,+Medicham,+Pinsir,+Sableye,+Tyranitar,+Rayquaza,+Diancie,+Garchomp,+Heracross,+Lucario,+Mawile,+Gallade,
+```
+
+### Gigantamax's
+```planetext
++Charizard,+Pikachu,+Eevee,+Meowth,+Butterfree,+Corviknight,+Alcremie,+Drednaw,+Machamp,+Gengar,+Toxtricity,+Melmetal,+Coalossal,+Sandaconda,+Centiskorch,+Grimmsnarl,+Hatterene,+Copperajah,+Duraludon,+Flapple,+Appletun,+Orbeetle,+Garbodor,+Kingler,+Lapras,+Rillaboom,+Cinderace,+Inteleon,+Urshifu,+Venusaur,+Blastoise,+Snorlax,
+```
+
+### Mega + Gigantamax [↑](#table-of-contents)
+```planetext
++Venusaur,+Charizard,+Blastoise,+Beedrill,+Pidgeot,+Alakazam,+Slowbro,+Gengar,+Kangaskhan,+Gyarados,+Aerodactyl,+Ampharos,+Steelix,+Houndoom,+Manectric,+Altaria,+Absol,+Latias,+Latios,+Lopunny,+Abomasnow,+Scizor,+Aggron,+Banette,+Sceptile,+Blaziken,+Swampert,+Glalie,+Salamence,+Gardevoir,+Medicham,+Pinsir,+Sableye,+Tyranitar,+Rayquaza,+Diancie,+Garchomp,+Heracross,+Lucario,+Mawile,+Gallade,+Pikachu,+Eevee,+Meowth,+Butterfree,+Corviknight,+Alcremie,+Drednaw,+Machamp,+Toxtricity,+Melmetal,+Coalossal,+Sandaconda,+Centiskorch,+Grimmsnarl,+Hatterene,+Copperajah,+Duraludon,+Flapple,+Appletun,+Orbeetle,+Garbodor,+Kingler,+Lapras,+Rillaboom,+Cinderace,+Inteleon,+Urshifu,+Snorlax,
+```
