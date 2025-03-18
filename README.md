@@ -1,9 +1,14 @@
 # Pokémon GO Search Terms 101
 
 ## Basic Search Terms
-```plaintext
-Bulbasaur
-```
+| Search Term | Description |
+|------------|-------------|
+| ```plaintext<br>Bulbasaur<br>``` | All Pokémon of that species |
+| ```plaintext<br>+Bulbasaur<br>``` | All Pokémon in that family (Bulbasaur, Ivysaur, Venusaur) |
+| ```plaintext<br>"Nickname"<br>``` | All Pokémon with that nickname |
+| ```plaintext<br>cp2000<br>``` | All Pokémon with 2000 CP |
+| ```plaintext<br>Legendary<br>``` | All Legendary Pokémon |
+
 | Search Term | Description |
 |------------|-------------|
 | ```Bulbasaur``` | All Pokémon of that species |
