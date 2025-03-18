@@ -132,7 +132,7 @@
     ```
 
 - **Combine everything:**  
+  - **Example:** Show all **Legendary & Lucky Pokémon**, those that are **Shiny**, and those that have **CP between 3000-4000**  [↑](#table-of-contents)
     ```plaintext
     Legendary & Lucky, Shiny, CP3000-4000
     ```
-  - **Example:** Show all **Legendary & Lucky Pokémon**, those that are **Shiny**, and those that have **CP between 3000-4000**  [↑](#table-of-contents)
