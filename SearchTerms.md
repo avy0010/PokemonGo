@@ -8,12 +8,11 @@
 - [Combining & Excluding Search Terms](#combining--excluding-search-terms)
 
 
-## Basic Search Terms [🔼](#table-of-contents)
-
+## Basic Search Terms
 | Search Term | Description |
 |------------|-------------|
-| ```Pikachu``` | All Pokémon of that species |
-| ```+Pikachu``` | All Pokémon in that family (Bulbasaur, Ivysaur, Venusaur) |
+| ```Bulbasaur``` | All Pokémon of that species |
+| ```+Bulbasaur``` | All Pokémon in that family (Bulbasaur, Ivysaur, Venusaur) |
 | ```"Nickname"``` | All Pokémon with that nickname |
 | ```1``` | Pokédex #1 |
 | ```1-25``` | Pokédex #1 to 25 |
@@ -25,9 +24,9 @@
 | ```cp-2000``` | All Pokémon with 2000 CP and lower |
 | ```hp200-300``` | All Pokémon with 200 to 300 HP |
 | ```Distance10-100``` | All Pokémon caught 10-100 KM away from your current location |
-| ```Distance100-``` | All Pokémon caught 100 KM away from your current location |
+| ```Distance100-``` | All Pokémon caught 100 KM away from your current location [↑](#table-of-contents)|
 
-## Type & Move-Based Search Terms [🔼](#table-of-contents)
+## Type & Move-Based Search Terms
 
 | Search Term | Description |
 |------------|-------------|
@@ -43,9 +42,9 @@
 | ```@Weather``` | All Pokémon boosted by the weather |
 | ```@1Weather``` | All Pokémon with a weather-boosted fast attack |
 | ```@2Weather``` | All Pokémon with a weather-boosted charge attack |
-| ```@3Weather``` | All Pokémon with a weather-boosted 2nd charge attack |
+| ```@3Weather``` | All Pokémon with a weather-boosted 2nd charge attack [↑](#table-of-contents)|
 
-## IV & Buddy Search Terms [🔼](#table-of-contents)
+## IV & Buddy Search Terms
 
 | Search Term | Description |
 |------------|-------------|
@@ -59,9 +58,9 @@
 | ```Buddy2``` | All Good Buddies |
 | ```Buddy3``` | All Great Buddies |
 | ```Buddy4``` | All Ultra Buddies |
-| ```Buddy5``` | All Best Buddies |
+| ```Buddy5``` | All Best Buddies [↑](#table-of-contents)|
 
-## Pokémon Age & Event-Based Search Terms [🔼](#table-of-contents)
+## Pokémon Age & Event-Based Search Terms
 
 | Search Term | Description |
 |------------|-------------|
@@ -83,18 +82,17 @@
 | ```Tradeevolve``` | Pokémon that evolve for free after being traded |
 | ```Item``` | Pokémon that require a special item to evolve |
 | ```Female/Male``` | Pokémon of that gender |
-| ```Genderunknown``` | Genderless Pokémon |
+| ```Genderunknown``` | Genderless Pokémon [↑](#table-of-contents)|
 
-## Region-Based Search Terms [🔼](#table-of-contents)
+## Region-Based Search Terms
 
 | Search Term | Description |
 |------------|-------------|
-| ```Kanto```, ```Johto```, ```Hoenn```, ```Sinnoh```, ```Unova```, ```Kalos```, ```Alola```, ```Galar``` | All Pokémon from that region/generation (```Kanto``` also includes Alola forms) |
+| ```Kanto```, ```Johto```, ```Hoenn```, ```Sinnoh```, ```Unova```, ```Kalos```, ```Alola```, ```Galar``` | All Pokémon from that region/generation (```Kanto``` also includes Alola forms) [↑](#table-of-contents)|
 
-## Combining & Excluding Search Terms [🔼](#table-of-contents)
+## Combining & Excluding Search Terms
 
 - **Combine search terms:** Use ```&``` between search words  
-  - **Example:**  
     ```plaintext
     Grass & CP2000-3000 & Kanto
     ```
@@ -110,31 +108,31 @@
     ```
 
 - **Exclude Pokémon:** Use ```!``` before a term to filter it out  
-  - **Example:** Show all Pokémon except traded ones  
+  -  Show all Pokémon except traded ones  
     ```plaintext
     !traded
     ```
-  - **Example:** Show all Pokémon **except** Legendary  
+  -  Show all Pokémon **except** Legendary  
     ```plaintext
     !Legendary
     ```
 
 - **Range searching:** Use ```-``` before, in between, or after a search term/number  
-  - **Example:** Search for Pokémon with CP between **2000 and 3000**  
+  -  Search for Pokémon with CP between **2000 and 3000**  
     ```plaintext
     CP2000-3000
     ```
-  - **Example:** Search for Pokémon with **HP below 100**  
+  -  Search for Pokémon with **HP below 100**  
     ```plaintext
     hp-100
     ```
-  - **Example:** Search for Pokémon with **Pokédex number 25 or below**  
+  -  Search for Pokémon with **Pokédex number 25 or below**  
     ```plaintext
     -25
     ```
 
 - **Combine everything:**  
-  - **Example:** Show all **Legendary & Lucky Pokémon**, those that are **Shiny**, and those that have **CP between 3000-4000**  
     ```plaintext
     Legendary & Lucky, Shiny, CP3000-4000
     ```
+  - **Example:** Show all **Legendary & Lucky Pokémon**, those that are **Shiny**, and those that have **CP between 3000-4000**  [↑](#table-of-contents)
