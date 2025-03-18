@@ -1,12 +1,12 @@
 # Pokémon GO Search Terms 101
 
 ## Basic Search Terms
-
+```plaintext
+Bulbasaur
+```
 | Search Term | Description |
 |------------|-------------|
-| ```plaintext
-Bulbasaur
-``` | All Pokémon of that species |
+| ```Bulbasaur``` | All Pokémon of that species |
 | ```+Bulbasaur``` | All Pokémon in that family (Bulbasaur, Ivysaur, Venusaur) |
 | ```"Nickname"``` | All Pokémon with that nickname |
 | ```1``` | Pokédex #1 |
