@@ -4,7 +4,7 @@
 
 | Search Term | Description |
 |------------|-------------|
-| ```Bulbasaur``` | All Pokémon of that species |
+| ```Bulbasaur```bash | All Pokémon of that species |
 | ```+Bulbasaur``` | All Pokémon in that family (Bulbasaur, Ivysaur, Venusaur) |
 | ```"Nickname"``` | All Pokémon with that nickname |
 | ```1``` | Pokédex #1 |
